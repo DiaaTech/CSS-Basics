@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(205, 239, 255);
+}
+
+h1 {
+  font-size: 60px;
+
+  color: brown;
+  text-align: center;
+}
+
+.tagline {
+  font-size: 40px;
+  text-align: center;
+}
+
+.project h3 {
+  font-size: 40px;
+  color: rgb(49, 145, 255);
+}
+.project p {
+  font-size: 30px;
+}
+
+.project img {
+  width: 800px;
+}
